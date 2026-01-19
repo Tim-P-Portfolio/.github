@@ -27,8 +27,20 @@ Repository for embedded Rust systems programming.
 
 ## Software 
 
-Cargo embedded crate: `cargo-embed`. 
-Running with: `cargo embed`
+[Probe-rs tools](https://probe.rs)
+
+Rust flashing/debugging tool: `cargo-embed`.  
+Flash and Run with: `cargo embed`.
+
+Core crates
+```
+  cortex-m
+  cortex-m-rt
+  embedded-hal
+  microbit-v2
+  panic-halt
+  rtt-target
+```
 
 
 ## Resources
