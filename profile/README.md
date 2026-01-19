@@ -21,9 +21,6 @@ Repository for embedded Rust systems programming.
 ```
 
 
-## Hardware
-[Micro:Bit V2](https://tech.microbit.org/hardware/), based on the [nRF52833](https://www.nordicsemi.com/Products/nRF52833) MCU
-
 
 ## Software 
 
@@ -41,6 +38,11 @@ Core crates
   panic-halt
   rtt-target
 ```
+
+
+## Hardware
+[Micro:Bit V2](https://tech.microbit.org/hardware/), based on the [nRF52833](https://www.nordicsemi.com/Products/nRF52833) MCU
+
 
 
 ## Resources
