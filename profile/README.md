@@ -30,8 +30,7 @@ Repository for embedded Rust systems programming.
 
 [Probe-rs tools](https://probe.rs)
 
-Rust flashing/debugging tool: `cargo-embed`.  
-Flash and Run with: `cargo embed`.
+Flash and Run with: `cargo embed`, using `cargo-embed` an embedded flashing/debugging tool.
 
 Core crates
 ```
