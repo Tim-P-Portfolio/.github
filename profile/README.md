@@ -1,8 +1,8 @@
-# Rust Embedded Systems 
+# Embedded Rust Systems 
 
 ## Overview 
 
-Embedded systems Rust programming
+Repository for embedded Rust systems programming.
 
 ## Topics Covered
 - [ ] µC Basics
@@ -22,12 +22,13 @@ Embedded systems Rust programming
 
 
 ## Hardware
-[Micro:Bit V2](https://tech.microbit.org/hardware/), with the [nRF52833](https://www.nordicsemi.com/Products/nRF52833) MCU
+[Micro:Bit V2](https://tech.microbit.org/hardware/), based on the [nRF52833](https://www.nordicsemi.com/Products/nRF52833) MCU
 
 
 ## Software 
 
-Cargo embedded crate `cargo-embed` `cargo embed`
+Cargo embedded crate: `cargo-embed`. 
+Running with: `cargo embed`
 
 
 ## Resources
