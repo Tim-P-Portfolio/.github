@@ -4,6 +4,14 @@
 
 Repository for embedded Rust systems programming.
 
+
+## Structure
+```
+│
+╰ To Come ...
+```
+
+
 ## Topics Covered
 - [ ] µC Basics
 - [ ] The Embedded Rust Ecosystem
@@ -14,11 +22,7 @@ Repository for embedded Rust systems programming.
 - [ ] RTS Frameworks
 - [ ] RTOS
 
-## Structure
-```
-│
-╰ To Come ...
-```
+
 
 
 
