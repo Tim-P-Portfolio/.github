@@ -7,7 +7,8 @@ Repository for embedded Rust systems programming.
 
 ## Structure
 │  
-╰ [Game of Life](https://github.com/Tim-P-Portfolio/Game-of-Life)
+╰ [Game of Life](https://github.com/Tim-P-Portfolio/Game-of-Life)  
+╰ [Level](https://github.com/Tim-P-Portfolio/Level)  
 
 
 ## Topics Covered
