@@ -9,7 +9,7 @@ Repository for embedded Rust systems programming.
 │  
 ╰ [Game of Life](https://github.com/Tim-P-Portfolio/Game-of-Life)  
 ╰ [Level](https://github.com/Tim-P-Portfolio/Level)  
-╰ [Level](https://github.com/Tim-P-Portfolio/HSV)  
+╰ [HSV](https://github.com/Tim-P-Portfolio/HSV)  
 
 
 
